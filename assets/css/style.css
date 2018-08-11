@@ -244,6 +244,7 @@ body {
       width: 685px;
       margin-right: 35px;
       margin-left: 35px;
+      padding: 10px;
     }
   
     .auth-image {
@@ -290,6 +291,7 @@ body {
       width: 550px;
       margin: 35px;
       margin-bottom: 0px;
+      padding: 10px;
     }
   
     .auth-image {
